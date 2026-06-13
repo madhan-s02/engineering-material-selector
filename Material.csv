@@ -1,0 +1,101 @@
+Material,Max_Temp,Tensile_Strength,Cost,Weight,Corrosion_Resistance,Best_For
+Mild Steel,400,400,Low,Heavy,Low,Structural
+Carbon Steel,450,500,Low,Heavy,Low,Structural
+Cast Iron,350,200,Low,Heavy,Low,Structural
+Alloy Steel,420,600,Medium,Heavy,Low,Structural
+Structural Steel,430,550,Low,Heavy,Low,Structural
+Reinforced Steel,410,520,Low,Heavy,Low,Structural
+High Strength Steel,440,650,Medium,Heavy,Low,Structural
+Galvanized Steel,400,480,Low,Heavy,Medium,Structural
+Wrought Iron,380,350,Low,Heavy,Low,Structural
+Rebar Steel,420,500,Low,Heavy,Low,Structural
+Prestressed Steel,440,600,Low,Heavy,Low,Structural
+Weathering Steel,430,570,Low,Heavy,Medium,Structural
+Boron Steel,450,700,Medium,Heavy,Low,Structural
+Spring Steel,460,750,Medium,Heavy,Low,Structural
+Rail Steel,440,600,Low,Heavy,Low,Structural
+Duplex Steel,470,680,Medium,Heavy,Medium,Structural
+Manganese Steel,430,650,Low,Heavy,Low,Structural
+Silicon Steel,410,520,Low,Heavy,Low,Structural
+Chromoly Steel,450,620,Medium,Heavy,Low,Structural
+Forged Steel,460,700,Medium,Heavy,Low,Structural
+Aluminum,300,270,Medium,Light,Medium,Aerospace
+Titanium,600,900,High,Light,High,Aerospace
+Carbon Fiber,400,1500,High,Light,High,Aerospace
+PEEK Polymer,250,100,High,Light,High,Aerospace
+Magnesium Alloy,200,200,Medium,Light,Low,Aerospace
+Aluminum Alloy,320,310,Medium,Light,Medium,Aerospace
+Titanium Alloy,620,950,High,Light,High,Aerospace
+Kevlar,450,1200,High,Light,High,Aerospace
+Beryllium,500,450,High,Light,Medium,Aerospace
+Glass Fiber,300,700,Medium,Light,High,Aerospace
+Aramid Fiber,400,1300,High,Light,High,Aerospace
+Boron Fiber,500,1400,High,Light,High,Aerospace
+Lithium Aluminum,280,290,High,Light,Medium,Aerospace
+Scandium Alloy,350,380,High,Light,Medium,Aerospace
+Aluminum Lithium,310,320,High,Light,Medium,Aerospace
+Oxide Ceramic,600,400,High,Light,High,Aerospace
+Silicon Nitride,800,600,High,Light,High,Aerospace
+Graphite Composite,500,1100,High,Light,High,Aerospace
+Hybrid Composite,450,1000,High,Light,High,Aerospace
+Thermoplastic CFRP,400,1200,High,Light,High,Aerospace
+Medical Titanium,600,920,High,Light,High,Medical
+Stainless Steel 316,500,600,Medium,Heavy,High,Medical
+Cobalt Chrome,550,800,High,Medium,High,Medical
+Medical PEEK,260,110,High,Light,High,Medical
+Zirconium,400,330,High,Medium,High,Medical
+Medical Grade PP,120,35,Medium,Light,High,Medical
+Nitinol,300,800,High,Light,High,Medical
+Platinum,400,200,High,Heavy,High,Medical
+Tantalum,500,270,High,Heavy,High,Medical
+Hydroxyapatite,200,100,High,Light,High,Medical
+Titanium Grade 5,610,930,High,Light,High,Medical
+Polyurethane,80,50,Medium,Light,High,Medical
+UHMWPE,80,40,Medium,Light,High,Medical
+Silicone,150,10,Medium,Light,High,Medical
+Polylactic Acid,60,50,Low,Light,Medium,Medical
+Bio Ceramic,300,150,High,Light,High,Medical
+Titanium Foam,500,200,High,Light,High,Medical
+Surgical Steel,480,580,Medium,Heavy,High,Medical
+Palladium,400,180,High,Medium,High,Medical
+Iridium,500,250,High,Heavy,High,Medical
+Copper,200,210,High,Medium,High,Electrical
+Brass,250,350,Medium,Medium,Medium,Electrical
+Aluminum Conductor,280,260,Medium,Light,Medium,Electrical
+Silver,180,170,High,Medium,High,Electrical
+Copper Alloy,220,230,High,Medium,High,Electrical
+Beryllium Copper,240,400,High,Medium,High,Electrical
+Gold,200,130,High,Heavy,High,Electrical
+Phosphor Bronze,230,380,Medium,Medium,High,Electrical
+Nickel Silver,250,340,Medium,Medium,Medium,Electrical
+Tin,150,90,Low,Medium,Medium,Electrical
+Copper Clad,210,220,Medium,Medium,High,Electrical
+Bronze,280,300,Medium,Heavy,High,Electrical
+Electrolytic Copper,190,200,High,Medium,High,Electrical
+Annealed Copper,180,190,High,Medium,High,Electrical
+Cadmium Copper,200,350,High,Medium,High,Electrical
+Tellurium Copper,210,240,High,Medium,High,Electrical
+Chromium Copper,220,350,High,Medium,High,Electrical
+Aluminum Bronze,260,380,Medium,Medium,High,Electrical
+Silicon Bronze,240,360,Medium,Medium,High,Electrical
+Naval Brass,260,370,Medium,Medium,High,Electrical
+Inconel,1000,1000,High,Heavy,High,High_Temp
+Tungsten,1500,1510,High,Heavy,Medium,High_Temp
+Nickel Alloy,700,800,High,Heavy,High,High_Temp
+Tool Steel,600,1500,High,Heavy,Low,High_Temp
+Molybdenum,1200,900,High,Heavy,Medium,High_Temp
+Rhenium,1100,1000,High,Heavy,High,High_Temp
+Hastelloy,950,850,High,Heavy,High,High_Temp
+Stellite,800,950,High,Heavy,High,High_Temp
+Silicon Carbide,1400,600,High,Medium,High,High_Temp
+Alumina Ceramic,1200,400,Medium,Medium,High,High_Temp
+Niobium,900,500,High,Heavy,Medium,High_Temp
+Tantalum Alloy,1000,600,High,Heavy,High,High_Temp
+Haynes Alloy,980,880,High,Heavy,High,High_Temp
+Zirconia,1100,350,High,Medium,High,High_Temp
+Boron Carbide,1300,500,High,Medium,High,High_Temp
+Chromium Alloy,850,750,High,Heavy,Medium,High_Temp
+Cobalt Alloy,900,900,High,Heavy,High,High_Temp
+Titanium Aluminide,800,700,High,Medium,Medium,High_Temp
+Oxide Dispersion Steel,950,800,High,Heavy,Medium,High_Temp
+Pyrolytic Graphite,1200,300,High,Light,High,High_Temp
